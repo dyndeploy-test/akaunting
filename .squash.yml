@@ -1,0 +1,4 @@
+deployments:
+  default:
+    build_steps:
+      - docker build -t akaunting .
